@@ -1,6 +1,8 @@
 # Molecular Modeling Tools
-Tools for molecular modeling
+Tools for molecular modeling \
+
+Generates a BaTiO rendering with helper tools (ase)
 
 # Status Project
 
-![alt text](https://github.com/PeanutButtermitKase/MolecularModelingTools/tmp/nice.png)
+![alt text](https://https://github.com/PeanutButtermitKase/MolecularModelingTools/blob/main/tmp/nice.png)
