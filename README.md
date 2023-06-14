@@ -15,3 +15,4 @@ The following style like image will be generated  <br />
 - [ ] Construct structure
 - [X] Rendering of structure for nice visualization
 - [X] Rotation of structure
+- [X] Added substrate plot
