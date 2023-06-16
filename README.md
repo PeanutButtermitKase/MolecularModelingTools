@@ -17,3 +17,4 @@ The following style like image will be generated  <br />
 - [X] Rotation of structure
 - [X] Added substrate plot
 - [X] Added get structure data 
+- [X] Support Vector Machine on structure data 
