@@ -14,7 +14,8 @@ The following style like image will be generated  <br />
 
 - [ ] Construct structure
 - [X] Rendering of structure for nice visualization
-- [X] Rotation of structure
+- [X] Rotation of structure#
+- [X] Cut structure
 - [X] Added substrate plot
 - [X] Added get structure data 
 - [X] Support Vector Machine on structure data 
